@@ -1,0 +1,6 @@
+/designer/impl1/*
+!/designer/impl1/top.pdb
+
+/synthesis/*
+
+*.sav

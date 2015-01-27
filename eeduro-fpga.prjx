@@ -1,0 +1,366 @@
+KEY LIBERO "11.2"
+KEY CAPTURE "11.2.0.26"
+KEY DEFAULT_IMPORT_LOC "C:\Projects\PRF0560\fpga\hdl"
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VHDL"
+KEY VendorTechnology_Family "ProASIC3"
+KEY VendorTechnology_Die "IS4X2M1"
+KEY VendorTechnology_Package "vq100"
+KEY VendorTechnology_Speed "-2"
+KEY VendorTechnology_DieVoltage "1.5"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVTTL"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE ""
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "D:\abajric\eeduro\svn\Software\eeduro-fpga"
+KEY ProjectDescription ""
+KEY SimulationType "VHDL"
+KEY Vendor "Actel"
+KEY ActiveRoot "top::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf,actgen_cxf"
+STATE="utd"
+TIME="1408349679"
+SIZE="437"
+ENDFILE
+VALUE "<project>\constraint\top.sdc,sdc"
+STATE="utd"
+TIME="1421055600"
+SIZE="173"
+ENDFILE
+VALUE "<project>\designer\impl1\top.adb,adb"
+STATE="utd"
+TIME="1421061553"
+SIZE="1500160"
+ENDFILE
+VALUE "<project>\designer\impl1\top.ide_des,ide_des"
+STATE="utd"
+TIME="1421061553"
+SIZE="1041"
+ENDFILE
+VALUE "<project>\designer\impl1\top.pdb,pdb"
+STATE="utd"
+TIME="1422268864"
+SIZE="53487"
+ENDFILE
+VALUE "<project>\designer\impl1\top_compile_log.rpt,log"
+STATE="utd"
+TIME="1422268824"
+SIZE="8752"
+ENDFILE
+VALUE "<project>\designer\impl1\top_fp\projectData\top.pdb,pdb"
+STATE="utd"
+TIME="1421061641"
+SIZE="53487"
+ENDFILE
+VALUE "<project>\designer\impl1\top_fp\top.pro,pro"
+STATE="utd"
+TIME="1421061641"
+SIZE="1957"
+ENDFILE
+VALUE "<project>\designer\impl1\top_placeroute_log.rpt,log"
+STATE="utd"
+TIME="1422268852"
+SIZE="2508"
+ENDFILE
+VALUE "<project>\designer\impl1\top_prgdata_log.rpt,log"
+STATE="utd"
+TIME="1422268864"
+SIZE="682"
+ENDFILE
+VALUE "<project>\designer\impl1\top_timingconstraints_log.rpt,log"
+STATE="utd"
+TIME="1420798245"
+SIZE="526"
+ENDFILE
+VALUE "<project>\designer\impl1\top_verifytiming_log.rpt,log"
+STATE="utd"
+TIME="1422268855"
+SIZE="1120"
+ENDFILE
+VALUE "<project>\hdl\eeduro.vhd,hdl"
+STATE="utd"
+TIME="1421061498"
+SIZE="7939"
+ENDFILE
+VALUE "<project>\hdl\fqd.vhd,hdl"
+STATE="utd"
+TIME="1393571027"
+SIZE="5474"
+ENDFILE
+VALUE "<project>\hdl\pwm.vhd,hdl"
+STATE="utd"
+TIME="1393571027"
+SIZE="1254"
+ENDFILE
+VALUE "<project>\hdl\spi_slave.vhd,hdl"
+STATE="utd"
+TIME="1409638504"
+SIZE="2838"
+ENDFILE
+VALUE "<project>\hdl\sync.vhd,hdl"
+STATE="utd"
+TIME="1421054231"
+SIZE="708"
+ENDFILE
+VALUE "<project>\hdl\syncv.vhd,hdl"
+STATE="utd"
+TIME="1420813210"
+SIZE="1237"
+ENDFILE
+VALUE "<project>\hdl\time_pkg.vhd,hdl"
+STATE="utd"
+TIME="1393571027"
+SIZE="493"
+ENDFILE
+VALUE "<project>\hdl\top.vhd,hdl"
+STATE="utd"
+TIME="1421057916"
+SIZE="3777"
+ENDFILE
+VALUE "<project>\smartgen\pll250\pll250.cxf,actgen_cxf"
+STATE="utd"
+TIME="1420803603"
+SIZE="1471"
+ENDFILE
+VALUE "<project>\smartgen\pll250\pll250.gen,gen"
+STATE="utd"
+TIME="1420803602"
+SIZE="547"
+PARENT="<project>\smartgen\pll250\pll250.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\pll250\pll250.log,log"
+STATE="utd"
+TIME="1420803603"
+SIZE="2667"
+PARENT="<project>\smartgen\pll250\pll250.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\smartgen\pll250\pll250.vhd,hdl"
+STATE="utd"
+TIME="1420803603"
+SIZE="7748"
+PARENT="<project>\smartgen\pll250\pll250.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\synthesis\synwork\top_comp.so,so"
+STATE="utd"
+TIME="1421058815"
+SIZE="159"
+ENDFILE
+VALUE "<project>\synthesis\top.edn,syn_edn"
+STATE="utd"
+TIME="1421061506"
+SIZE="641936"
+ENDFILE
+VALUE "<project>\synthesis\top.so,so"
+STATE="utd"
+TIME="1421061506"
+SIZE="218"
+ENDFILE
+VALUE "<project>\synthesis\top_sdc.sdc,syn_sdc"
+STATE="utd"
+TIME="1421061506"
+SIZE="397"
+ENDFILE
+VALUE "<project>\synthesis\top_syn.prj,prj"
+STATE="utd"
+TIME="1421061507"
+SIZE="2099"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "top::work"
+FILE "<project>\hdl\top.vhd,hdl"
+LIST SynthesisConstraints
+VALUE "<project>\constraint\top.sdc,sdc"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+LiberoState=Post_Layout
+ideSYNTHESIS(<project>\synthesis\top.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\top.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST PinReports
+VALUE "<project>\designer\impl1\top_report_pin_byname.txt,log"
+VALUE "<project>\designer\impl1\top_report_pin_bynumber.txt,log"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="D:\programs\Microsemi\Libero_v11.2\Synopsys\synplify_H201303MSP1-1\bin\synplify_pro.exe"
+PARAM="-licensetype synplifypro_actel -batch -log synplify.log"
+BATCH=1
+LICENSE=""
+EndProfile
+NAME="ModelSim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="D:\programs\Microsemi\Libero_v11.2\Model\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+EndProfile
+NAME="FlashPro"
+FUNCTION="Program"
+TOOL="FlashPro"
+LOCATION="D:\programs\Microsemi\Libero_v11.2\Designer\bin\FlashPro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "top::work"
+LIST Impl1
+LiberoState=Post_Layout
+ideSYNTHESIS(<project>\synthesis\top.edn,syn_edn)=StateSuccess
+ideDESIGNER(<project>\designer\impl1\top.adb,adb)=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+Reports;Reports
+ACTIVEVIEW;Reports
+ENDLIST
+LIST ModuleSubBlockList
+LIST "DESIGN_FIRMWARE::work","component\work\DESIGN_FIRMWARE\DESIGN_FIRMWARE.cxf","TRUE","FALSE"
+ENDLIST
+LIST "eeduro::work::eeduro_pkg","hdl\eeduro.vhd","FALSE","FALSE"
+SUBBLOCK "pwm::work::pwm_pkg","hdl\pwm.vhd","FALSE","FALSE"
+SUBBLOCK "sync::work::sync_pkg","hdl\sync.vhd","FALSE","FALSE"
+SUBBLOCK "spi_slave::work::spi_slave_pkg","hdl\spi_slave.vhd","FALSE","FALSE"
+SUBBLOCK "fqd::work::fqd_pkg","hdl\fqd.vhd","FALSE","FALSE"
+ENDLIST
+LIST "eeduro_pkg::work","hdl\eeduro.vhd","FALSE","FALSE"
+SUBBLOCK "eeduro::work::eeduro_pkg","hdl\eeduro.vhd","FALSE","FALSE"
+ENDLIST
+LIST "fqd::work::fqd_pkg","hdl\fqd.vhd","FALSE","FALSE"
+ENDLIST
+LIST "fqd_pkg::work","hdl\fqd.vhd","FALSE","FALSE"
+SUBBLOCK "fqd::work::fqd_pkg","hdl\fqd.vhd","FALSE","FALSE"
+ENDLIST
+LIST "pll250::work","smartgen\pll250\pll250.vhd","TRUE","FALSE"
+ENDLIST
+LIST "pwm::work::pwm_pkg","hdl\pwm.vhd","FALSE","FALSE"
+ENDLIST
+LIST "pwm_pkg::work","hdl\pwm.vhd","FALSE","FALSE"
+SUBBLOCK "pwm::work::pwm_pkg","hdl\pwm.vhd","FALSE","FALSE"
+ENDLIST
+LIST "spi_slave::work::spi_slave_pkg","hdl\spi_slave.vhd","FALSE","FALSE"
+ENDLIST
+LIST "spi_slave_pkg::work","hdl\spi_slave.vhd","FALSE","FALSE"
+SUBBLOCK "spi_slave::work::spi_slave_pkg","hdl\spi_slave.vhd","FALSE","FALSE"
+ENDLIST
+LIST "sync::work::sync_pkg","hdl\sync.vhd","FALSE","FALSE"
+ENDLIST
+LIST "sync_pkg::work","hdl\sync.vhd","FALSE","FALSE"
+SUBBLOCK "sync::work::sync_pkg","hdl\sync.vhd","FALSE","FALSE"
+ENDLIST
+LIST "syncv::work::syncv_pkg","hdl\syncv.vhd","FALSE","FALSE"
+ENDLIST
+LIST "syncv_pkg::work","hdl\syncv.vhd","FALSE","FALSE"
+SUBBLOCK "syncv::work::syncv_pkg","hdl\syncv.vhd","FALSE","FALSE"
+ENDLIST
+LIST "time_pkg::work","hdl\time_pkg.vhd","FALSE","FALSE"
+ENDLIST
+LIST "top::work","hdl\top.vhd","FALSE","FALSE"
+SUBBLOCK "pll250::work","smartgen\pll250\pll250.vhd","TRUE","FALSE"
+SUBBLOCK "eeduro::work::eeduro_pkg","hdl\eeduro.vhd","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+ENDLIST
